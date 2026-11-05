@@ -1,1 +1,1 @@
-﻿Console.WriteLine(DateTime.Null());
+﻿Console.WriteLine(DateTime.Now);
